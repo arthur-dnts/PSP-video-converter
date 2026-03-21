@@ -1,10 +1,10 @@
+from customtkinter import filedialog
 from pathlib import Path
 from PIL import Image
 import customtkinter
-from customtkinter import filedialog
-import os, sys
 import ffmpeg
-
+import sys
+import os
 
 # Function to load images on exe file (More compatibility with the auto-py-to-exe)
 def resource_path(relative_path):
