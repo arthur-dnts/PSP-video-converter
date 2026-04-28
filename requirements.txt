@@ -3,4 +3,4 @@ darkdetect==0.8.0
 ffmpeg-python==0.2.0
 future==1.0.0
 packaging==26.0
-pillow==12.1.1
+pillow>=12.2.0
